@@ -19,3 +19,5 @@ PeerGuard-AI/
 
 # Environment / secrets
 .env
+
+*.docx
